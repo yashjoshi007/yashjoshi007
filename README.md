@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300"'>
 
 Hi, My name is Yash Joshi.I am a technical geek, highly determined and focused, seeking an opportunity to maximize experience in the best possible manner. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents . 
 
