@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
 
-Hi, My name is Yash Joshi.I am a technical geek, highly determined and focused, seeking an opportunity to maximize experience in the best possible manner. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents . 
+Hi, My name is Yash Joshi.  I am a technical geek, highly determined and focused, seeking an opportunity to maximize experience in the best possible manner. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents . 
 
 ## Hello World!! 😃
 - 💬 Ask me about anything an everything.
