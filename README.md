@@ -22,7 +22,7 @@ Hi, My name is Yash Joshi.I am a technical geek, highly determined and focused, 
 
 ## Hello World!! 😃
 - 💬 Ask me about anything an everything.
-- 📫 LinkedIn profile: [Yash Joshi](linkedin.com/in/yash-joshi-b4351918b)
+- 📫 LinkedIn profile: [Yash Joshi](https://www.linkedin.com/in/yash-joshi-b4351918b)
 - 🎯 Portfolio site: [Portfolio](https://yashportfolio.netlify.app/)
 - 🔔 Instagram:- [mr.joshiiz785](https://www.instagram.com/mr.joshiiz785/?igshid=1nbt1729p1y9j)
 
