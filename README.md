@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200"'>
+
+Hi, My name is Yash Joshi.I am a technical geek, highly determined and focused, seeking an opportunity to maximize experience in the best possible manner. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents . 
+
+## Hello World!! 😃
+- 💬 Ask me about anything an everything.
+- 📫 LinkedIn profile: [Yash Joshi](linkedin.com/in/yash-joshi-b4351918b)
+- 🎯 Portfolio site: [Portfolio](https://yashportfolio.netlify.app/)
+- 🔔 Instagram:- [mr.joshiiz785](https://www.instagram.com/mr.joshiiz785/?igshid=1nbt1729p1y9j)
+
+
+
+![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=yashjoshi007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjoshi007&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+
+
+
+
+![](https://komarev.com/ghpvc/?username=yashjoshi007&color=blue)
