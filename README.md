@@ -37,7 +37,7 @@ Hi, My name is Yash Joshi.  I am a technical geek, highly determined and focused
 
 - 📫 How to reach me : (DO Follow the emoticon ) 😃
 - 💬 Ask me about anything an everything.
-- 📫 LinkedIn profile: [Yash Joshi](https://www.linkedin.com/in/yash-joshi-b4351918b)
+- 📫 LinkedIn profile: [https://www.google.com/search?q=image+of+linked+in+icon&safe=active&rlz=1C1CHBF_enIN882IN882&tbm=isch&source=iu&ictx=1&fir=Wz57EKL_9VN2gM%252ClJtE7E84wMpehM%252C_&vet=1&usg=AI4_-kTlt49WJzrGfUoIDm_zQRvvePFMKg&sa=X&ved=2ahUKEwi_gYGArvrrAhUv4jgGHa-jDdkQ9QF6BAgKECw&biw=1536&bih=722#imgrc=Wz57EKL_9VN2gM](https://www.linkedin.com/in/yash-joshi-b4351918b)
 - 🎯 Myself in a web View: [Portfolio](https://yashportfolio.netlify.app/)
 - 🔔 Instagram:- [mr.joshiiz785](https://www.instagram.com/mr.joshiiz785/?igshid=1nbt1729p1y9j)
 
