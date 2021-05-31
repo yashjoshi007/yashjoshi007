@@ -32,7 +32,7 @@ Hi, My name is Yash Joshi.  I am a technical geek, highly determined and focused
 
 
 
-![yashjoshi007 github stats](https://github-readme-stats.vercel.app/api?username=yashjoshi007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![yashjoshi007 github stats](https://github-readme-stats.vercel.app/api?username=yashjoshi007&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
 
 
 - 📫 How to reach me : (DO Follow the emoticon ) 😃
